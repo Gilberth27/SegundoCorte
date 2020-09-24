@@ -1,0 +1,14 @@
+{
+  "name": "trabajos-completos",
+  "version": "1.0.0",
+  "description": "Taller en Clase",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Gilberth Nick CRuz Gonzalez",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^10.1.2"
+  }
+}
